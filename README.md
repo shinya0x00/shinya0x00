@@ -15,6 +15,7 @@
 
 現在の開発はGTPの進め方で進めており、エージェントによる操作は
 machine account（agent-operated-bot）に分離しています。
+アカウント名の「-bot」はmachine account（非人間アカウント）を示すGitHubの慣習的接尾辞であり、操作主体はscripted botではなくAI agentです。
 非エンジニアがAIとの協働でどこまで作れるか、その記録そのものです。
 
 ---
