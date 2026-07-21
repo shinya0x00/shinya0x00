@@ -26,3 +26,6 @@ X: [@shinya0x00](https://x.com/shinya0x00)
 
 *A non-engineer building software entirely through AI collaboration —
 with a protocol that keeps human judgment in the loop.*
+
+GTPを試して、分かりにくかった所があれば一言だけでも教えてください。IssueでもXでも大丈夫です。  
+逆に、あなたの作ったものも教えてもらえれば、ぜひ使ってみたいです。
